@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name":"Story Book",
-        "title": "Harry Potter and Philosopher's Stone",
+        "title": "Harry Potter &  Stone",
         "price": 67,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name":"Story Book",
-        "title": "Harry Potter and Chamber of Secrets",
+        "title": "Harry Potter &  Secrets",
         "price": 85,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name":"Story Book",
-        "title": "Harry Potter and Prisoner of Azkaban",
+        "title": "Harry Potter & of Azkaban",
         "price": 93,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "name":"Story Book",
-        "title": "Harry Potter and Philosopher's Stone 2",
+        "title": "Harry Potter &  Stone 2",
         "price": 67,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
@@ -130,7 +130,7 @@
     {
         "id": 17,
         "name":"Story Book",
-        "title": "Harry Potter and Chamber of Secrets 2",
+        "title": "Harry Potter &  Secrets 2",
         "price": 75,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
@@ -162,7 +162,7 @@
     {
         "id": 21,
         "name":"Story Book",
-        "title": "Harry Potter and Prisoner of Azkaban 2",
+        "title": "Harry Potter & of Azkaban 2",
         "price": 88,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.743327280.1732635081&semt=ais_hybrid"
