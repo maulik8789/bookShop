@@ -4,6 +4,7 @@ import Course from './components/Course';
 import Home from './components/home/Home';
 import Contact from './components/Contact';
 import About from './components/About';
+import Signup from './components/Signup';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path='/course' element={<Course />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/about' element = {<About />} />
+          <Route path='/signup' element = {<Signup />} />
 
         </Routes>
       </div>
