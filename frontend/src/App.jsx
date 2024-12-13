@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, Router, Routes } from 'react-router-dom';
-import Course from './components/courses/Course';
-import Home from './components/home/Home';
-import Contact from './components/contact/Contact';
+import Course from './components/Course';
+import Home from './components/Home';
+import Contact from './components/Contact';
 import About from './components/About';
 import Signup from './components/Signup';
 

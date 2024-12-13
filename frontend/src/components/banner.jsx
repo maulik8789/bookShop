@@ -1,6 +1,6 @@
 import React from 'react'
 // import banner from "../../src/Banner.jpg";
-import banner from "../../assets/Banner.png";
+import banner from "../assets/Banner.png";
 
 function Banner() {
   return (
