@@ -8,7 +8,7 @@ function Login() {
     const onSubmit = (data, e) => {
         console.log(data);
         e.preventDefault();
-        alert("Thanks! Your essage has been submitted!");
+        alert("Thanks! You are logged in!");
     }
   return (
     <div>

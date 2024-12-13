@@ -71,7 +71,7 @@ function navbar() {
                             {navItems}
                         </ul>
                     </div >
-                    <a className="btn btn-ghost text-2xl px-1">bookStore</a>
+                    <a href = '/' className="btn btn-ghost text-2xl px-1">bookStore</a>
                 </div>
                 <div className="navbar-end space-x-3">
                     <div className="navbar-center hidden lg:flex">
